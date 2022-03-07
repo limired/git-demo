@@ -10,4 +10,4 @@ hello Monday!hello git!
 hello Monday!hello git!
 hello Monday!hello git!
 hello Monday!hello git! master test
-hello Monday!hello git!
+hello Monday!hello git!  hot-fix test
